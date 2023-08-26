@@ -21,4 +21,4 @@ spring:
       
     show-sql: true
     
-    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
+    database-platform: org.hibernate.dialect.MySQL8Dialect
